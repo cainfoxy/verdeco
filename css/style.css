@@ -1,0 +1,236 @@
+/* Theme Name: cainfoxy */
+
+/*
+Colorzzz
+gray #98A89E
+claro #e4e4e4
+verde #2efa0c
+*/
+
+/*******************Reset*******************/
+html, body, div, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, ol, ul, li, form, legend, label, table, header, footer, nav, section { 
+    margin: 0; 
+    padding: 0; 
+    vertical-align: baseline;
+} 
+ol, ul { 
+    list-style: none; 
+} 
+table { 
+    border-collapse: collapse; 
+    border-spacing: 0; 
+}
+header, footer, nav, section, article, hgroup, figure {
+    display: block; 
+}
+/****************End Reset********************/
+
+/****************Global Elements**************/
+
+body { 
+
+    
+}
+
+header {
+
+}
+
+h2 {
+    font-size: 1.2em;
+    font-family: 'Holtwood One SC', serif;
+}
+
+h3 {
+    font-size: 1em;
+    display: inline;
+    color: gray;
+}
+
+h4 {
+    display:none;
+    font-size: 5em;
+    text-align: center;
+}
+
+article {
+    max-width: 150px;
+    /* margin: 0 1.5%; */
+    float: left;
+    margin-left: 2%;
+}
+
+/* nav { */
+    max-width: 90%;
+    min-width: 70%;
+    display: inline;
+   }
+
+nav ul {
+     
+}
+
+nav ul li {
+    display: inline-block;
+    max-width: 50%;
+    margin-left:4.9%;
+    padding-top: .2em;
+    padding-bottom: .2em;
+    padding-left: .5em;
+    background-color: gra;
+    }
+
+
+p {
+    color: white;
+    text-align: center;
+    background:gray; 
+}
+
+/* img { */
+    text-align:center;
+    display: inline-block;
+}
+
+footer {
+    font-size: .9em;
+    display: inline-block;
+    position: relative;
+    text-align: justify;
+    width: 90%;
+    height: 6px;
+    color: white;
+
+}
+
+/* identificadores*/
+    
+#content {
+    max-width: 320px; 
+    min-width: 320px;
+    max-height: 480px;
+    min-height: 480px;
+    margin: 0 auto;
+}
+
+
+
+#wrap { 
+    margin:0 0 !important;
+}
+
+#apple {
+    margin-top: 1em;
+}
+
+#apple img {
+    margin:0 22%;
+}
+
+#boton {
+}
+
+#botones {
+    float: left;
+}
+
+#text {
+    text-align: center;
+    /* display: inline-block; */
+}
+
+#img_tel {
+    display:none;
+}
+
+#textos {
+    display:none;
+}
+
+
+/*Clases*/
+
+/* .ind { */
+    text-align: center;
+    box-shadow: 0px 55px 15px 50px gray;
+    -webkit-box-shadow:  0px 55px 15px 50px #gray;  
+    margin-top: 3.33em;
+}
+
+/* .lado { */
+    margin: 1% 0.0328%;
+    float:left;
+    border-radius: 0px 0px 15px 15px ;
+    box-shadow: 0px 0px 15px 15px gray; /*muestra el sombreado cuadrado*/
+}
+
+/*stickyfooter*/
+
+.wrapper {
+min-height: 90%;
+height: auto !important;
+height: 90%;
+margin: 0 auto 4em;
+}
+.footer, .push {
+height: 0em;
+font-size: .9em;
+display: inline-block;
+width: 100%;
+}
+
+
+/*MediaQuerys*/
+
+@media only screen and (min-width: 608px) {
+    /* Style adjustments for viewports that meet the condition */
+
+h4 {
+    display:inline-block;
+    font-family: 'Holtwood One SC', serif;
+    max-width: 90%;
+    font-size: 4em;
+    text-align: center;
+}
+
+   #content {
+    max-width: 608px; 
+    min-width: 608px;
+    max-height: 1024px;
+    min-height: 1024px;
+    margin: 0 auto;
+}
+
+    #img_tel {
+        margin: 4px;
+        float:right;
+        display:inline-block;
+}
+
+    #textos {
+        float:left;
+        display:inline;
+        margin: 0 auto;
+        padding-left: 10%;
+        padding-top: 2%;
+
+}
+
+nav {
+    display: none;
+}
+
+
+    .wrapper {
+        min-height: 90%;
+        height: auto !important;
+        height: 90%;
+        margin: 0 auto 16em;
+        }
+    .footer, .push {
+        height: 0em;
+        font-size: .9em;
+        display: inline-block;
+        width: 100%;
+
+        }
