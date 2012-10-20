@@ -1,0 +1,482 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"fonT",
+				"font-style	zen:css_properties"
+			],
+			[
+				"FO",
+				"font-variant"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"INL",
+				"inline-block"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"inline",
+				"inline-table"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"im",
+				"IMG"
+			],
+			[
+				"ul",
+				"UL"
+			],
+			[
+				"nav",
+				"NAV"
+			],
+			[
+				"inli",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2329,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 5108,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tareas.TODO",
+			"settings":
+			{
+				"buffer_size": 341,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"discover",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Zen Coding: ",
+				"Zen Coding: Zen as you type"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 430.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Z/Sitios/Velosol_publicar/index.html",
+		"/Z/Sitios/verdeco/git/origin/index.html",
+		"/Z/Sitios/verdeco/git/origin/css/style.css",
+		"/Z/Sitios/verdeco/git/verdeco/index.html",
+		"/C/Documents and Settings/Victor/Datos de programa/Sublime Text 2/Packages/User/html5.sublime.snippet",
+		"/C/Documents and Settings/Victor/Datos de programa/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Documents and Settings/Victor/Escritorio/probando.html",
+		"/C/Documents and Settings/Victor/Datos de programa/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/Z/Sitios/verdeco/git/origin/galeria.html",
+		"/C/Documents and Settings/Victor/Datos de programa/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Documents and Settings/Victor/Datos de programa/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Documents and Settings/Victor/Escritorio/tienda responsive/index.html",
+		"/Z/Sitios/verdeco/git/origin/nosotros.html",
+		"/Z/Sitios/verdeco/git/origin/css/cainfoxy.css",
+		"/Z/Sitios/design/css/cainfoxy.css",
+		"/Z/Sitios/cainfoxy html5/css/pruebas.css",
+		"/Z/Sitios/cainfoxy html5/css/style.css",
+		"/Z/Sitios/verdeco/git/verdeco/css/main.css",
+		"/Z/Sitios/verdeco/git/verdeco/galeria.html",
+		"/Z/Sitios/verdeco/git/verdeco/css/normalize.css",
+		"/Z/Sitios/verdeco/git/origin/README.md",
+		"/C/Documents and Settings/Victor/Escritorio/css3-onebox/Source-Layouts/Css3/styles/style.css",
+		"/Z/Sitios/verdeco/git/verdeco/.gitattributes",
+		"/Z/Sitios/verdeco/git/verdeco/.gitignore",
+		"/Z/Sitios/verdeco/git/verdeco/LICENSE.md",
+		"/Z/Sitios/verdeco/git/verdeco/humans.txt",
+		"/Z/Sitios/cainfoxy html5/humans.txt",
+		"/Z/Sitios/cainfoxy html5/index.html",
+		"/Z/Sitios/verdeco/git/verdeco/h5bp-html5-boilerplate-2279296/README.md",
+		"/Z/Sitios/verdeco/git/verdeco/README.md",
+		"/C/Documents and Settings/Victor/Mis documentos/Sitios/Verdeco/mail/verdeco.es/verdeco/courierpop3dsizelist",
+		"/Z/Sitios/verdeco/git/verdeco/images/oscuro.jpg",
+		"/Z/Sitios/verdeco/git/verdeco/images/clarito.jpg",
+		"/Z/Sitios/verdeco/git/verdeco/images/medio.jpg",
+		"/C/Documents and Settings/Victor/Mis documentos/curso/h5bp-html5-boilerplate-1ac32b7/index.html",
+		"/C/Documents and Settings/Victor/Mis documentos/curso/h5bp-html5-boilerplate-1ac32b7/css/style.css",
+		"/C/Documents and Settings/Victor/Escritorio/tienda responsive/estilos.css",
+		"/Z/Sitios/tienda responsive/estilos.css",
+		"/C/Documents and Settings/Victor/Escritorio/web aquaelectric/index.html",
+		"/C/Documents and Settings/Victor/Escritorio/web aquaelectric/css/style.css",
+		"/Z/Sitios/velosol_nueva/formulario.html",
+		"/C/Archivos de programa/nodejs/servidor.js",
+		"/C/wamp/www/node.html",
+		"/C/Documents and Settings/Victor/Escritorio/servidor.js",
+		"/C/Documents and Settings/Victor/Escritorio/node.html",
+		"/C/Documents and Settings/Victor/Datos de programa/Sublime Text 2/Packages/ZenCoding/Preferences.sublime-settings",
+		"/C/Documents and Settings/Victor/Datos de programa/Sublime Text 2/Packages/ZenCoding/zenmeta.py",
+		"/C/Documents and Settings/Victor/Datos de programa/Sublime Text 2/Packages/ZenCoding/zen-coding.sublime-settings",
+		"/C/Documents and Settings/Victor/Datos de programa/Sublime Text 2/Packages/ZenCoding/zencoding/parser/abbreviation.pyc",
+		"/C/Documents and Settings/Victor/Datos de programa/Sublime Text 2/Packages/ZenCoding/Default.sublime-keymap",
+		"/C/Documents and Settings/Victor/Datos de programa/Sublime Text 2/Installed Packages/Package Control.sublime-package",
+		"/C/Documents and Settings/Victor/Datos de programa/Sublime Text 2/Packages/ZenCoding/Default.sublime-commands",
+		"/C/wamp/www/programa/index.php",
+		"/C/Documents and Settings/Victor/Mis documentos/curso/Responsive Wakkos/Bootstrap/bootstrap/js/less-1.3.0.min.js",
+		"/C/Documents and Settings/Victor/Mis documentos/curso/Responsive Wakkos/initializr/humans.txt",
+		"/Z/Sitios/furgo/formulario.html",
+		"/Z/Sitios/furgo/enviar.php",
+		"/Z/Sitios/furgo/css/style.css",
+		"/Z/Sitios/cainfoxy.css",
+		"/Z/Sitios/furgo/index.html",
+		"/Z/Sitios/furgo/form.html",
+		"/Z/Sitios/furgo/contacto.php",
+		"/Z/Sitios/furgo/form/enviar.php",
+		"/Z/Sitios/furgo/form/formulario.html",
+		"/Z/Sitios/furgo/contactonuevo.php",
+		"/C/Documents and Settings/Victor/Escritorio/responsive/curso/boilerplate/css/main.css",
+		"/C/Documents and Settings/Victor/Escritorio/less/pruebas.less",
+		"/C/Documents and Settings/Victor/Escritorio/pruebas.less",
+		"/C/Documents and Settings/Victor/Escritorio/Publicadas/es/contacto.php",
+		"/C/Documents and Settings/Victor/Escritorio/Publicadas/es/contacto.html",
+		"/C/Documents and Settings/Victor/Escritorio/responsive/estilos.css",
+		"/C/Documents and Settings/Victor/Escritorio/responsive/nayshop.html",
+		"/C/Documents and Settings/Victor/Escritorio/responsive/index.html",
+		"/C/Documents and Settings/Victor/Escritorio/responsive/sershop.html",
+		"/C/Documents and Settings/Victor/Datos de programa/Sublime Text 2/Packages/Default/Default (Linux).sublime-mousemap",
+		"/C/Documents and Settings/Victor/Datos de programa/Sublime Text 2/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Limpiar",
+			"gray",
+			"none",
+			"return",
+			"ansta",
+			"anstatt",
+			"toggle"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Limpiar",
+			""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1532,
+								1532
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 655.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 5108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4856,
+								4856
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6129.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tareas.TODO",
+					"settings":
+					{
+						"buffer_size": 341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PlainTasks/PlainTasks.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index.html",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Z/Sitios/verdeco/git/origin/verdeco.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

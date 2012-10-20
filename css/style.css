@@ -2,61 +2,69 @@
 
 /*
 Colorzzz
-gray #98A89E
-claro #e4e4e4
-verde #2efa0c
+
+gris_oscuro     #585858
+gris_claro      #c0c0c0
+verde_claro     #DAFAD4
+verde_medio     #9EF38E
+verde_fuerte    #35D318
 */
 
 /*******************Reset*******************/
-html, body, div, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, ol, ul, li, form, legend, label, table, header, footer, nav, section { 
-    margin: 0; 
-    padding: 0; 
+html, body, div, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, ol, ul, li, form, legend, label, table, header, footer, nav, section {
+    margin:0;
+    padding: 0;
     vertical-align: baseline;
-} 
-ol, ul { 
-    list-style: none; 
-} 
-table { 
-    border-collapse: collapse; 
-    border-spacing: 0; 
+}
+ol, ul {
+    list-style: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
 }
 header, footer, nav, section, article, hgroup, figure {
-    display: block; 
+    display: block;
 }
 /****************End Reset********************/
 
 /****************Global Elements**************/
 
-body { 
-
-    
+body {
 }
 
 header {
 
 }
 
+h1 {
+}
+
 h2 {
-    font-size: 1.2em;
+    font-size  : 1.2em;
     font-family: 'Holtwood One SC', serif;
+    color: black;
 }
 
 h3 {
-    font-size: 1em;
-    display: inline;
-    color: gray;
+    visibility: hidden;
 }
 
 h4 {
-    display:none;
-    font-size: 5em;
+    display   :none;
+    font-size : 5em;
     text-align: center;
+    color: #c0c0c0;
+}
+
+h5{
+    visibility: hidden;
 }
 
 article {
-    max-width: 150px;
-    /* margin: 0 1.5%; */
-    float: left;
+    max-width  : 150px;
+    /* margin  : 0 1.5%; */
+    float      : left;
     margin-left: 2%;
 }
 
@@ -67,24 +75,24 @@ article {
    }
 
 nav ul {
-     
+
 }
 
 nav ul li {
-    display: inline-block;
-    max-width: 50%;
-    margin-left:4.9%;
-    padding-top: .2em;
-    padding-bottom: .2em;
-    padding-left: .5em;
+    display         : inline-block;
+    max-width       : 50%;
+    margin-left     :4.9%;
+    padding-top     : .2em;
+    padding-bottom  : .2em;
+    padding-left    : .5em;
     background-color: gra;
     }
 
 
 p {
-    color: white;
+    color     : white;
     text-align: center;
-    background:gray; 
+    background: gray;
 }
 
 /* img { */
@@ -93,38 +101,49 @@ p {
 }
 
 footer {
-    font-size: .9em;
-    display: inline-block;
-    position: relative;
+    font-size : .9em;
+    display   : inline-block;
+    position  : relative;
     text-align: justify;
-    width: 90%;
-    height: 6px;
-    color: white;
+    width     : 90%;
+    height    : 6px;
+    color     : white;
 
 }
 
 /* identificadores*/
-    
+
 #content {
-    max-width: 320px; 
-    min-width: 320px;
+    max-width : 320px;
+    min-width : 320px;
     max-height: 480px;
     min-height: 480px;
-    margin: 0 auto;
+    margin    : 0 auto;
+    background-color: white;
 }
 
 
 
-#wrap { 
-    margin:0 0 !important;
+#wrap {
+    margin:1% 2.75%;
 }
 
 #apple {
     margin-top: 1em;
 }
 
-#apple img {
-    margin:0 22%;
+#bienve {
+    margin-top: 1em;
+    display: none;
+}
+
+#apple_g {
+       display: none;
+}
+
+#apple_t {
+    display: inline-block;
+    margin: 0 22%;
 }
 
 #boton {
@@ -147,13 +166,15 @@ footer {
     display:none;
 }
 
-
+.woody {
+    display: none;
+}
 /*Clases*/
 
 /* .ind { */
     text-align: center;
     box-shadow: 0px 55px 15px 50px gray;
-    -webkit-box-shadow:  0px 55px 15px 50px #gray;  
+    -webkit-box-shadow:  0px 55px 15px 50px #gray;
     margin-top: 3.33em;
 }
 
@@ -166,66 +187,141 @@ footer {
 
 /*stickyfooter*/
 
-.wrapper {
-min-height: 90%;
-height: auto !important;
-height: 90%;
-margin: 0 auto 4em;
+    .wrapper {
+        min-height: 90%;
+        height    : auto !important;
+        height    : 90%;
+        margin    : 0 auto 4em;
 }
-.footer, .push {
-height: 0em;
-font-size: .9em;
-display: inline-block;
-width: 100%;
+    .footer, .push {
+        height   : 0em;
+        font-size: .9em;
+        display  : inline-block;
+        width    : 100%;
 }
 
+  #bot {
+        display: none;
+    }
 
 /*MediaQuerys*/
 
 @media only screen and (min-width: 608px) {
     /* Style adjustments for viewports that meet the condition */
 
-h4 {
-    display:inline-block;
+nav {
+        display: none;
+}
+
+h1 {
+
+}
+
+h2 {
+        display: none;
+}
+
+h3 {
+    visibility: visible;
+    font-size: 1em;
+    color    : #c0c0c0;
     font-family: 'Holtwood One SC', serif;
-    max-width: 90%;
-    font-size: 4em;
     text-align: center;
+    border: solid 2px;
+    margin-top:3em;
+}
+
+h4 {
+        display:inline-block;
+        font-family: 'Holtwood One SC', serif;
+        max-width: 90%;
+        font-size: 3.5em;
+        margin: 0 0.6em;
+}
+
+h5 {
+    visibility: visible;
+    float: right;
+    width: 100px;
+    height: 50px;
+    margin: -15% 8% ;
+    text-align: justify;
 }
 
    #content {
-    max-width: 608px; 
-    min-width: 608px;
-    max-height: 1024px;
-    min-height: 1024px;
-    margin: 0 auto;
+        max-width: 608px;
+        min-width: 608px;
+        max-height: 1024px;
+        /* min-height: 1024px; */
+        margin: 0 auto;
 }
 
     #img_tel {
-        margin: 4px;
-        float:right;
+        margin : 4px;
+        float  :right;
         display:inline-block;
 }
 
+    #apple_t {
+        display: none;
+}
+
+    #apple_g {
+    display: inline-block;
+    margin:0% 21.5%;
+
+}
+
+    #bienve {
+        margin-top: 1em;
+        display: inline-block;
+}
+
     #textos {
-        float:left;
-        display:inline;
-        margin: 0 auto;
-        padding-left: 10%;
-        padding-top: 2%;
+        float       :left;
+        display     :inline-block;
+        margin      : 0 4.9%;
+        padding-top : 2%;
 
 }
 
-nav {
-    display: none;
-}
+    #bot {
+        display: inline-block;
+        width: 90%;
+        margin-left: 5%;
+    }
 
+    #bot ul     {
+        text-align: center;
+        position:relative;
+    }
+
+    #bot li {
+        width: 16.35%;
+        margin:2%  .3%;
+        padding-left: 0 2.3%;
+        border:2px solid #585858;
+        border-radius:5px;
+        color: #585858;
+        background-color: #c0c0c0;
+        text-align:justify;
+        font-size: .8em;
+        font-style: bold;
+        text-align: center;
+    }
+
+     .woody {
+        display: inline;
+        font-style: italic;
+        color: black;
+        float: right;
+        margin-top: -10%;
+    }
 
     .wrapper {
         min-height: 90%;
-        height: auto !important;
-        height: 90%;
-        margin: 0 auto 16em;
+        height    : auto !important;
+        height    : 90%;
         }
     .footer, .push {
         height: 0em;
